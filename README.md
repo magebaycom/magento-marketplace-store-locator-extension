@@ -16,6 +16,6 @@ See more detail [Magento Multi Vendor](https://www.magebay.com/magento-multi-ven
 - Full responsive design
 - Easy to installing and configure
 
-If you have any problems using this module, please let us know by submitting the issues or [Contact us](https://www.magebay.com/about-us/)
+If you have any problems using this module, please let us know by submitting the issues.
 
 Related plugins: [Magento Marketplace Multiple Flat Rate Shipping Extension](https://github.com/magebaycom/magento-marketplace-multiple-flat-rate-shipping)
