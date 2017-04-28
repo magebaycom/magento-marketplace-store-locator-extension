@@ -3,7 +3,7 @@ Magento 2 Marketplace Store Locator Extension is a plugin of Magebay Multi Vendo
 
 See more detail [Magento Marketplace Store Locator Extension](https://www.magebay.com/magento-marketplace-store-locator)
 
-See more detail [Magento 2 Marketplace Extension](https://www.magebay.com/magento-multi-vendor-marketplace-extension)
+See more detail [Magento Multi Vendor](https://www.magebay.com/magento-multi-vendor-marketplace-extension)
 
 ## Feature of Marketplace Store Locator Extension for Magento 2
 - Allow Vendor add store information like address. websites, images, phone number, email.
@@ -17,3 +17,5 @@ See more detail [Magento 2 Marketplace Extension](https://www.magebay.com/magent
 - Easy to installing and configure
 
 If you have any problems using this module, please let us know by submitting the issues or [Contact us](https://www.magebay.com/about-us/)
+
+Related plugins: [Magento Marketplace Multiple Flat Rate Shipping Extension](https://github.com/magebaycom/magento-marketplace-multiple-flat-rate-shipping)
